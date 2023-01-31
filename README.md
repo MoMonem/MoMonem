@@ -13,6 +13,7 @@ I always have a lot of questions and I'm constantly trying to learn new, useful 
 <br>
 
 ## 🛠 Skills & Tools
+Typescript,
 JavaScript,
 Python,
 HTML,
