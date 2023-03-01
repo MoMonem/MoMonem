@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🚀 About Me
-I'm a software engineer who loves creating things from the ground up. I'm equally comfortable with frontend and backend technologies but would love to specialize in backend engineering in the future 🚀 
+I'm a software engineer on the hunt for a challenge - something that will help me grow my skills and give me a chance to work on medium to large-scale apps.
 
 I always have a lot of questions and I'm constantly trying to learn new, useful things by taking on new challenges.
 
