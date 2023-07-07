@@ -12,23 +12,18 @@ I always have a lot of questions and I'm constantly trying to learn new, useful 
 
 <br>
 
-## 🛠 Skills & Tools
+## 🛠 Toolkit
+Python,
 Typescript,
 JavaScript,
-Python,
-HTML,
-CSS,
-React JS,
-Node JS,
-Jest JS,
+PostgreSQL,
+Docker,
 Django,
-SQL, 
-MongoDB,
+Nodejs,
+Reactjs,
+Nextjs
 Git,
-Rest API,
-AntD (Ant Design Framework)
-TailWind CSS
-
+Integrational testing,
 
 <!--
 **MoMonem/MoMonem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
